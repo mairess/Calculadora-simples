@@ -4,4 +4,7 @@
 
 - 👉🏽 [Check this out](https://mairess.github.io/Calculadora-simples/)
 
-![easyCalculator](https://user-images.githubusercontent.com/130297266/236196465-a42ef4cb-e320-46db-bc70-48577d56cc61.gif)
+
+<p align="center">
+<img alt="simple calculator" src="https://user-images.githubusercontent.com/130297266/236196465-a42ef4cb-e320-46db-bc70-48577d56cc61.gif"></img>
+</p>
